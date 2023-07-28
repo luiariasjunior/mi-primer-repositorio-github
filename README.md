@@ -1,2 +1,2 @@
-# my first readme
-Mi primer repositorio en Github
+# repositorio para practicar git pull
+repositorio para practicar el comando git pull
